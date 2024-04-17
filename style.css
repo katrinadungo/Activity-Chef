@@ -1,0 +1,66 @@
+body {
+	font-family: Arial, Helvetica, Sans-serif;
+	margin: 0;
+}
+#firstdiv{
+	position: relative;
+}
+img {
+	width: 100%;
+	height: 603px;
+}
+#content{
+	top:7%;
+	right:8%;
+	position: absolute;
+	background-color: white;
+	height: 500px;
+	width: 1140px;
+}
+#PROG {
+	font-size: 15px;
+	padding: 30px;
+}
+#PROG h2 {
+	color: #DB545A;
+	font-size:35px;	
+}
+#About {
+	
+	right: 45%;
+	top:6%;
+	position: absolute;
+}
+#About h2 {
+	color: #18AC99;
+	font-size:35px;
+}
+#MISSION {
+	font-size: 15px;
+	top: 10%;
+	padding-left: 40px;
+}
+#MISSION h2 {
+	color: #F1C50E;
+	font-size:30px;	
+}
+#AWARDS {
+	right: 45%;
+	top:50%;
+	position: absolute;
+}
+#AWARDS h2 {
+	color: #858E9F;
+	font-size:33px;
+}
+#chef {
+	float: right;
+	top: 5%;
+	right: 2%;
+	position: absolute;
+	
+}
+#chef img {
+	width: 445px;
+	height: 475px;
+}
